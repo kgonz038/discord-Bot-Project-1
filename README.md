@@ -1,4 +1,4 @@
-# discord-Bot-Project-1
+# Discord-Bot-Project-1
 
 I got inspiration to create a discord bot for a discord server I'm in, which is primarily about events, social talk, traveling and questions about the city.
 Thus this bot was made with that discord server in mind. The bot responds and messages/displays info for the current available commands for example:
@@ -6,7 +6,7 @@ Thus this bot was made with that discord server in mind. The bot responds and me
 - A view of discounted places on a specific day
 - The weather and revalant data of the city or any chosen city
 
-The available discounted places and things to do in the city is frequently asked by those in the discord server for those who are vistiting, moving to, or residents looking for things to do for holidays, weekends and vacation days. As a result, I also thought it would be a good idea to add a weather command to the bot for those checking how the weather would be for the day or week they think about going to places or things to do on those discounted days. Thus the bot responds to those requesting the current weather in the city or any other city. 
+The available discounted places and things to do in the city is frequently asked by other users in the discord server for those who are vistiting, moving to, or residents looking for things to do for holidays, weekends and vacation days. As a result, I also thought it would be a good idea to add a weather command to the bot for those checking how the weather would be for the day or week they think about going to places or things to do on those discounted days. Thus the bot responds to those requesting the current weather in the city or any other city. 
 
 Below is a view of how the bot responds to the commands in a server.
 
